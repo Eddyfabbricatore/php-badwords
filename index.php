@@ -12,7 +12,7 @@
   <title>PHP Badwords</title>
 </head>
 <body>
-  <div class="container my-3">
+  <div class="container my-5">
     <form action="result.php" method="GET">
       <div class="mb-3">
         <label for="paragraph" class="form-label">Testo</label>
